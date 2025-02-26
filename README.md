@@ -25,6 +25,6 @@ A Calendar that you can write your tasks on.
 ![Chat Room Snapshot](images/firstView.jpg) 
 ![Chat Room Snapshot](images/taskView.jpg)
 ![Chat Room Snapshot](images/Month.jpg)
-![Chat Room Snapshot](images/firstView.jpg) 
+![Chat Room Snapshot](images/Year.jpg) 
 
 Enjoy! 😃  
