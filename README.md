@@ -18,7 +18,7 @@ A Calendar that you can write your tasks on.
 - click the required date and a text filed will pop up, write your task down and click ok. 
 
 ## Notice
-- i havnt yet added the option to save the task into a file, right now it only saves in run time.
+- i haven't yet added the option to save the task into a file, right now it only saves in run time.
 
 
 ## Pics
